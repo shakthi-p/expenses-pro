@@ -30,7 +30,7 @@ This project focuses on **JavaScript logic, DOM manipulation, state handling, an
 
 ###  Currency Support
 
-* Uses **Indian Rupee (₹)** instead of Dollars
+* Uses **Indian Rupee (₹)** 
 * Currency updated consistently across:
 
   * Balance
